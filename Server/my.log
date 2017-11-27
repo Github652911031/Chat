@@ -1,0 +1,37 @@
+0 2017-11-26 20:18:48 model.MyQqServer INFO -服务器启动
+593 2017-11-26 20:18:49 model.MyQqServer INFO -服务器连接客户端:java.nio.channels.SocketChannel[connected local=/127.0.0.1:9000 remote=/127.0.0.1:34126]
+4894 2017-11-26 20:18:53 model.MyQqServer INFO -读取完毕，继续监听
+5059 2017-11-26 20:18:53 model.MyQqServer INFO -接收到消息
+5095 2017-11-26 20:18:53 model.MyQqServer INFO -读取完毕，继续监听
+5096 2017-11-26 20:18:53 model.MyQqServer INFO -接收到消息
+7501 2017-11-26 20:18:56 model.MyQqServer INFO -读取完毕，继续监听
+7503 2017-11-26 20:18:56 model.MyQqServer INFO -接收到消息
+0 2017-11-26 20:22:29 model.MyQqServer INFO -服务器启动
+10547 2017-11-26 20:22:40 model.MyQqServer INFO -服务器连接客户端:java.nio.channels.SocketChannel[connected local=/127.0.0.1:9000 remote=/127.0.0.1:34138]
+14564 2017-11-26 20:22:44 model.MyQqServer INFO -读取完毕，继续监听
+14730 2017-11-26 20:22:44 model.MyQqServer INFO -接收到消息
+14762 2017-11-26 20:22:44 model.MyQqServer INFO -读取完毕，继续监听
+14763 2017-11-26 20:22:44 model.MyQqServer INFO -接收到消息
+0 2017-11-26 20:24:25 model.MyQqServer INFO -服务器启动
+244336 2017-11-26 20:28:30 model.MyQqServer INFO -服务器连接客户端:java.nio.channels.SocketChannel[connected local=/127.0.0.1:9000 remote=/127.0.0.1:34484]
+255622 2017-11-26 20:28:41 model.MyQqServer INFO -读取完毕，继续监听
+255939 2017-11-26 20:28:41 model.MyQqServer INFO -接收到消息:common.domain.Message@75c39be5
+256057 2017-11-26 20:28:41 model.MyQqServer INFO -读取完毕，继续监听
+256058 2017-11-26 20:28:41 model.MyQqServer INFO -接收到消息:common.domain.Message@2bfccc7
+0 2017-11-26 20:34:11 model.MyQqServer INFO -服务器启动
+7824 2017-11-26 20:34:18 model.MyQqServer INFO -服务器连接客户端:java.nio.channels.SocketChannel[connected local=/127.0.0.1:9000 remote=/127.0.0.1:34566]
+11679 2017-11-26 20:34:22 model.MyQqServer INFO -读取完毕，继续监听
+11845 2017-11-26 20:34:22 model.MyQqServer INFO -接收到消息:LOGIN
+11890 2017-11-26 20:34:22 model.MyQqServer INFO -读取完毕，继续监听
+11890 2017-11-26 20:34:22 model.MyQqServer INFO -接收到消息:REQUEST_ONLINEUSERS
+26662 2017-11-26 20:34:37 model.MyQqServer INFO -读取完毕，继续监听
+26663 2017-11-26 20:34:37 model.MyQqServer INFO -接收到消息:LOGOUT
+0 2017-11-26 20:36:53 model.MyQqServer INFO -服务器启动
+5200 2017-11-26 20:36:58 model.MyQqServer INFO -服务器连接客户端:java.nio.channels.SocketChannel[connected local=/127.0.0.1:9000 remote=/127.0.0.1:34736]
+8073 2017-11-26 20:37:01 model.MyQqServer INFO -读取完毕，继续监听
+8245 2017-11-26 20:37:02 model.MyQqServer INFO -接收到消息:LOGIN
+8279 2017-11-26 20:37:02 model.MyQqServer INFO -读取完毕，继续监听
+8280 2017-11-26 20:37:02 model.MyQqServer INFO -接收到消息:REQUEST_ONLINEUSERS
+11614 2017-11-26 20:37:05 model.MyQqServer INFO -读取完毕，继续监听
+11615 2017-11-26 20:37:05 model.MyQqServer INFO -接收到消息:LOGOUT
+11619 2017-11-26 20:37:05 model.handler.message.impl.LogoutMessageHandler INFO -客户端退出
